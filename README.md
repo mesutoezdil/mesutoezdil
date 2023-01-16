@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning React.js and (Advamced) JavaScript
+🌱 I’m currently learning React.js and (Advanced) JavaScript
 
 📫 How to reach me mesudozdil@gmail.com
 
