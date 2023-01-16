@@ -4,7 +4,7 @@
 
 📫 How to reach me mesudozdil@gmail.com
 
-⚡ The fact I am who I am
+⚡ The fact is I am who I am
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/59303763700641.5ab98ff858d38.gif">
 
