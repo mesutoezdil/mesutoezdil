@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-🌱 I’m currently learning React.js and JavaScript
+🌱 I’m currently learning React.js and (Advamced) JavaScript
 
 📫 How to reach me mesudozdil@gmail.com
 
-⚡ Fun fact I am Funny
-
+⚡ The fact I am who I am
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/59303763700641.5ab98ff858d38.gif">
 
