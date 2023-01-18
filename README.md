@@ -6,7 +6,7 @@
 
 ⚡ The fact is I am who I am
 
-<img align="right" alt="Coding" width="1000" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/59303763700641.5ab98ff858d38.gif">
+<img align="right" alt="Coding" width="1200" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/59303763700641.5ab98ff858d38.gif">
 
 # **About Me**
 I am a software developer based in Germany. I primarily work in JavaScript, though I am willing to learn other languages if needed. For the library, I use React.js. Aside from my software journey, I enjoy reading a book. I am quite passionate about community building, helping out in multiple communities while also maintaining my own.
