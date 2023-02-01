@@ -41,8 +41,6 @@ Not all my projects are available on GitHub. Coming soon you can view my top pro
 
 
 <!--
-
-
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 https://www.youtube.com/watch?v=G-EGDH50hGE&t=80s&ab_channel=RishavChanda
 -->
