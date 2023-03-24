@@ -14,7 +14,7 @@ Always aiming to learn new things in my life, I am passionate about developing i
           
           My Journey
           
-Even though I was in a pretty stable financial situation right after the pandemic, I decided to pursue a new adventure. My plan was actually to apply my previous knowledge of Information Security and Systems to its relationship with Cloud technology. Then I suddenly found myself writing in cloud.
+Even though I was in a pretty stable financial situation right after the pandemic, I decided to pursue a new adventure. My plan was actually to apply my previous knowledge of Information Security and Systems to its relationship with Cloud technology. Then I suddenly found myself bein in cloud tech.
 
 </details>
 
