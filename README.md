@@ -1,20 +1,20 @@
 ### Hi there 👋
 
-🌱 I’m currently learning React.js and (Advanced) JavaScript
+🌱 I’m currently learning DevSecOps tools and features
 
 ⚡ The fact is I am who I am..
 
 <img align="right" alt="Coding" width="1200" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/59303763700641.5ab98ff858d38.gif">
 
 # **About Me**
-I am a software developer based in Germany. I primarily work in JavaScript, though I am willing to learn other languages if needed. For the library, I use React.js. Aside from my software journey, I enjoy reading a book. I am quite passionate about community building, helping out in multiple communities while also maintaining my own.
+Always aiming to learn new things in my life, I am passionate about developing in DevSecOps. One of those people who are fascinated by the world that the internet and the digital world is taking us to. I got my first education in Information Security and Systems and started my career, then I worked for a while. I am a determined and patient rubberneck and at the same time meticulous and ambitious in my work!
 
 <details>
           <summary>Click to expand!</summary>
           
           My Journey
           
-Even though I was in a pretty stable financial situation right after the pandemic, I decided to pursue a new adventure. My plan was actually to apply my previous knowledge of Information Security and Systems to its relationship with Web Development. Then I suddenly found myself writing code. I searched up "learn to code for free" and came across freeCodeCamp, where I signed up and started the curriculum. While this was just intended to be a hobby, and I was considering a career in human resources, I ended up diving in full force. Within about 6 months I had completed the entire freeCodeCamp curriculum. Finding a strong love for this work, I continued to branch out. freeCodeCamp had taught me the basics of the MERN stack. I fell in love, and now use JavaScript on all of my projects. 
+Even though I was in a pretty stable financial situation right after the pandemic, I decided to pursue a new adventure. My plan was actually to apply my previous knowledge of Information Security and Systems to its relationship with Cloud technology. Then I suddenly found myself writing in cloud.
 
 </details>
 
