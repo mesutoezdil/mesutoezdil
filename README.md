@@ -7,14 +7,14 @@
 <img align="right" alt="Coding" width="1200" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/59303763700641.5ab98ff858d38.gif">
 
 # **About Me**
-Always aiming to learn new things in my life, I am passionate about developing in DevSecOps. One of those people who are fascinated by the world that the internet and the digital world is taking us to. I got my first education in Information Security and Systems and started my career, then I worked for a while. I am a determined and patient rubberneck and at the same time meticulous and ambitious in my work!
+Always aiming to learn new things in my life, I am passionate about developing in DevSecOps. One of those people who are fascinated by the world that the internet and the digital world is taking us to. 
 
 <details>
           <summary>Click to expand!</summary>
           
           My Journey
           
-Even though I was in a pretty stable financial situation right after the pandemic, I decided to pursue a new adventure. My plan was actually to apply my previous knowledge of Information Security and Systems to its relationship with Cloud technology. Then I suddenly found myself bein in cloud tech.
+.
 
 </details>
 
@@ -25,7 +25,7 @@ Not all my projects are available on GitHub. Coming soon you can view my top pro
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mesut-oezdil-790609251/](https://www.linkedin.com/in/mesut-oezdil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/mesut-oezdil-790609251/](https://www.linkedin.com/in/mesut-oezdil/)" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/mesut-oezdil-790609251/](https://www.linkedin.com/in/mesut-oezdil/)](https://www.linkedin.com/in/mesut-oezdil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/mesut-oezdil-790609251/](https://www.linkedin.com/in/mesut-oezdil/)" height="30" width="40" /></a>
 
 </p>
 
