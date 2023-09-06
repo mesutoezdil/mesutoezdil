@@ -22,18 +22,6 @@ Always aiming to learn new things in my life, I am passionate about developing i
 Not all my projects are available on GitHub. Coming soon you can view my top projects/contributions or check out my repositories to see what I've been up to. Everything I build is open-source, and you are free to fork the repository and play around with the code. If you ever discover a bug or want to request a feature, feel free to submit issues or pull requests — they are always welcome!
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://www.linkedin.com/in/mesut-oezdil-790609251/](https://www.linkedin.com/in/mesut-oezdil/)(https://www.linkedin.com/in/mesut-oezdil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/mesut-oezdil-790609251/](https://www.linkedin.com/in/mesut-oezdil/)" height="30" width="40" /></a>
-
-</p>
-
-
-
-
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mesutoezdil&" alt="mesutoezdil" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mesutoezdil&show_icons=true&locale=en" alt="mesutoezdil" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mesutoezdil&show_icons=true&locale=en&layout=compact" alt="mesutoezdil" /></p>
