@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m a DevSecOps Engineer.
+🌱 I’m a DevOps Engineer.
 
 ⚡ The fact about me is I am who I am.
 
