@@ -2,8 +2,6 @@
 
 🌱 I’m a DevOps Engineer.
 
-⚡ The fact about me is I am who I am.
-
 <img align="right" alt="Coding" width="1200" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/59303763700641.5ab98ff858d38.gif">
 
 # **About Me**
