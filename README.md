@@ -5,10 +5,18 @@
 <img align="right" alt="Coding" width="1200" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/59303763700641.5ab98ff858d38.gif">
 
 # **About Me**
-Always aiming to learn new things in my life, I am passionate about developing in DevSecOps. One of those people fascinated by the world that the internet and the digital world are taking us to. 
+Always aiming to learn new things in my life.
+
+One of those people fascinated by the world that the internet and the digital world are taking us to. 
 
 # **Projects**
-Not all my projects are available on GitHub. Coming soon you can view my top projects/contributions or check out my repositories to see what I've been up to. Everything I build is open-source, and you are free to fork the repository and play around with the code. If you ever discover a bug or want to request a feature, feel free to submit issues or pull requests — they are always welcome!
+Not all my projects are available on GitHub. 
+
+Coming soon you can view my top projects/contributions or check out my repos to see what I've been up to. 
+
+Everything I build is open-source, and you are free to fork the repository and play around with the code. 
+
+If you ever discover a bug or want to request a feature, feel free to submit issues or pull requests, they are always welcome!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mesutoezdil&show_icons=true&locale=en&layout=compact" alt="mesutoezdil" /></p>
 
