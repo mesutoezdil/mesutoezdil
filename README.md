@@ -182,12 +182,6 @@ Real-world hands-on articles. Every command ran on a live cluster. Every output 
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mesutoezdil&theme=darkhub&no-bg=true&no-frame=true&margin-w=8&row=1&column=6" />
-</div>
-
----
-
 ## Connect
 
 <div align="center">
