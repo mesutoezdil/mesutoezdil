@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=GPU+Virtualization+on+Kubernetes+%E2%80%94+Project+HAMi+%C2%B7+CNCF+Sandbox;AI+Agents+as+K8s+Resources+%E2%80%94+kagent+%C2%B7+Istio;CUDA+%26+GPU+Architecture+%E2%80%94+from+fundamentals+to+production;CKS+%C2%B7+CKA+%C2%B7+KubeAstronaut+%C2%B7+CDP+Certified;Platform+Engineering+%40+Adfinis+GmbH+%C2%B7+Stuttgart" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=GPU+Virtualization+on+Kubernetes+%E2%80%94+Project+HAMi+%C2%B7+CNCF+Sandbox;AI+Agents+as+K8s+Resources+%E2%80%94+kagent+%C2%B7+Istio;CUDA+%26+GPU+Architecture+%E2%80%94+from+fundamentals+to+production;CKS+%C2%B7+CKA+%C2%B7+KubeAstronaut+%C2%B7+CDP+Certified;DevOps+Engineer+%C2%B7+Open+Source+Contributor+%C2%B7+Germany" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,23 +29,28 @@
 
 ## About
 
-```yaml
-role:        "DevOps Engineer @ Adfinis GmbH · Stuttgart, Germany"
-philosophy:  "Be like water — adapt to the system, find the path"
+```sh
+$ whoami
+  DevOps Engineer · Open Source Contributor · Germany
 
-open_source:
-  - "Project HAMi  · CNCF Sandbox — GPU virtualization & sharing on Kubernetes"
-  - "kagent        · solo.io      — AI agents as native Kubernetes resources"
-  - "Systematic CUDA Learning     — GPU fundamentals to production systems"
+$ cat philosophy.txt
+  "Be like water — adapt to the system, find the path."
 
-current_focus:
-  - GPU virtualization with HAMi on real K8s clusters   # NVIDIA L40S
-  - AI agent infrastructure with kagent + MCP + A2A     # CRDs, live cluster
-  - CUDA programming from scratch                       # no AI-generated noise
-  - IaC & IAM automation                               # OpenTofu · Keycloak · Vault
+$ cat current_work.txt
+  GPU virtualization on Kubernetes     →  Project HAMi   (CNCF Sandbox)
+  AI agents as K8s resources           →  kagent          (Istio / solo.io)
+  CUDA & GPU architecture              →  Systematic CUDA Learning
+  IaC & zero-trust IAM                 →  OpenTofu · Keycloak · Vault
 
-certifications: [CKS, CKA, KubeAstronaut, CDP, OTel, CastAI-APA-Hero]
-writing:        [medium.com/@mesutoezdil, mesutoezdil.substack.com]
+$ cat certifications.txt
+  [✓]  CKS            Certified Kubernetes Security Specialist
+  [✓]  CKA            Certified Kubernetes Administrator
+  [✓]  KubeAstronaut
+  [✓]  CDP            Certified DevSecOps Professional
+
+$ cat writing.txt
+  medium.com/@mesutoezdil      real clusters · real output · no fluff
+  mesutoezdil.substack.com     no AI-generated noise
 ```
 
 ---
