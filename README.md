@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=Infrastructure+as+Code+%E2%80%94+OpenTofu+%2F+Terraform+%2F+Terragrunt;Identity+%26+Access+Management+%E2%80%94+Keycloak+%2B+OIDC;Secrets+Management+%E2%80%94+HashiCorp+Vault+%2F+OpenBao;GitOps+%E2%80%94+ArgoCD+%2F+GitLab+CI+%2F+Kubernetes;Platform+Engineering+%E2%80%94+CNCF+Ecosystem" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Infrastructure+as+Code+%E2%80%94+OpenTofu+%2F+Terraform+%2F+Terragrunt;Identity+%26+Access+Management+%E2%80%94+Keycloak+%2B+OIDC;Secrets+Management+%E2%80%94+HashiCorp+Vault+%2F+OpenBao;GitOps+%E2%80%94+ArgoCD+%2F+GitLab+CI+%2F+Kubernetes;Platform+Engineering+%E2%80%94+CNCF+Ecosystem" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,9 +20,9 @@
 
 ## About
 
-I'm a **DevOps Engineer** at **[Adfinis GmbH](https://adfinis.com)**, building and operating cloud-native infrastructure with a strong focus on security, automation, and declarative configuration.
+DevOps Engineer at **[Adfinis GmbH](https://adfinis.com)** · Germany
 
-My work lives at the intersection of **platform engineering**, **identity management**, and **infrastructure as code** — designing systems where reliability and zero-trust security are non-negotiable.
+I design and operate cloud-native infrastructure where **security, automation, and declarative configuration** are first-class citizens.
 
 ```yaml
 current_focus:
@@ -31,6 +31,14 @@ current_focus:
   - GitOps pipelines                          # GitLab CI + ArgoCD
   - Scalable RBAC architecture                # Grafana, Rancher, OpenSearch
 ```
+
+---
+
+## Core Tooling
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,terraform,gitlab,grafana,linux,git,bash,github&theme=dark&perline=8" />
+</div>
 
 ---
 
@@ -84,6 +92,28 @@ current_focus:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mesutoezdil&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 </div>
 
+---
+
+## Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mesutoezdil&theme=github-compact&bg_color=0D1117&color=58A6FF&line=0087FF&point=00C7CF&area=true&area_color=0D2A4A&hide_border=true" />
+</div>
+
+---
+
+## Contribution Grid
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mesutoezdil/mesutoezdil/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mesutoezdil/mesutoezdil/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/mesutoezdil/mesutoezdil/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mesutoezdil&theme=darkhub&no-bg=true&no-frame=true&margin-w=8&row=1&column=6" />
 </div>
@@ -99,10 +129,6 @@ current_focus:
   &nbsp;
   <a href="https://github.com/mesutoezdil">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://adfinis.com">
-    <img src="https://img.shields.io/badge/Adfinis%20GmbH-0087FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white" />
   </a>
 </div>
 
