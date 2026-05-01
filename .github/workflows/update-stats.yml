@@ -53,7 +53,6 @@ jobs:
               "| Repo | Merged | Open |",
               "|------|-------:|-----:|",
               *rows,
-              f"| **Total** | **{total_merged}** | **{total_open}** |",
               "",
               f"_Updated: {today}_",
           ]
