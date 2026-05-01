@@ -84,6 +84,8 @@ AI agents as native Kubernetes CRDs. Contributing to the project that lets agent
 
 ## PR Contributions
 
+<div align="center">
+
 <!-- CONTRIBUTIONS_START -->
 | Repo | Merged | Open |
 |------|-------:|-----:|
@@ -93,10 +95,11 @@ AI agents as native Kubernetes CRDs. Contributing to the project that lets agent
 | [kagent-dev/community](https://github.com/kagent-dev/community) | 0 | 1 |
 | [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) | 0 | 1 |
 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 1 | 0 |
-| **Total** | **110** | **17** |
 
 _Updated: 2026-05-01_
 <!-- CONTRIBUTIONS_END -->
+
+</div>
 
 ---
 
