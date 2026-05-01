@@ -87,7 +87,15 @@ AI agents as native Kubernetes CRDs. Contributing to the project that lets agent
 Evaluation framework for AI agents using OpenTelemetry traces. Contributing zero-code OTLP examples and integration tests.
 
 </td>
-<td align="center" width="50%"></td>
+<td align="center" width="50%">
+
+**[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)** · NVIDIA
+
+![OpenShell](https://img.shields.io/badge/Contributor-OpenShell-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+Open source shell tooling by NVIDIA. Contributing to documentation and usability improvements.
+
+</td>
 </tr>
 </table>
 </div>
