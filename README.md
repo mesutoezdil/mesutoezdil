@@ -10,9 +10,6 @@
 
 <br/>
 
-<div align="center">
-  &nbsp;
-</div>
 
 <br/>
 
