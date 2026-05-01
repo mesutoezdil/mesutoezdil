@@ -201,21 +201,16 @@ Real-world hands-on articles. Every command ran on a live cluster. Every output 
 ## Connect
 
 <div align="center">
-  <a href="https://linktr.ee/mesutoezdil">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://mesutoezdil.medium.com">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://mesutoezdil.substack.com">
-    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/mesutoezdil/Systematic-CUDA-Learning">
-    <img src="https://img.shields.io/badge/CUDA%20Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  </a>
+<table border="0" cellspacing="8" cellpadding="0">
+<tr>
+<td><a href="https://linktr.ee/mesutoezdil"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a></td>
+<td><a href="https://mesutoezdil.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a></td>
+</tr>
+<tr>
+<td><a href="https://mesutoezdil.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a></td>
+<td><a href="https://github.com/mesutoezdil/Systematic-CUDA-Learning"><img src="https://img.shields.io/badge/CUDA%20Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /></a></td>
+</tr>
+</table>
 </div>
 
 <br/>
