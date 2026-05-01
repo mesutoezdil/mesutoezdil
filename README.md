@@ -82,6 +82,24 @@ AI agents as native Kubernetes CRDs. Contributing to the project that lets agent
 
 ---
 
+## PR Contributions
+
+<!-- CONTRIBUTIONS_START -->
+| Repo | Merged | Open |
+|------|-------:|-----:|
+| [Project-HAMi/website](https://github.com/Project-HAMi/website) | 98 | 11 |
+| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 0 | 2 |
+| [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 11 | 2 |
+| [kagent-dev/community](https://github.com/kagent-dev/community) | 0 | 1 |
+| [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) | 0 | 1 |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 1 | 0 |
+| **Total** | **110** | **17** |
+
+_Updated: 2026-05-01_
+<!-- CONTRIBUTIONS_END -->
+
+---
+
 ## Core Tooling
 
 <div align="center">

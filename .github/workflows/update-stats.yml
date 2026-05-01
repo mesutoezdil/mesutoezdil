@@ -1,0 +1,86 @@
+name: Update PR Contributions
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build contributions table
+        id: table
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'EOF'
+          import subprocess, re, datetime
+
+          repos = [
+              ("Project-HAMi/website",          "Project-HAMi/website"),
+              ("Project-HAMi/HAMi",              "Project-HAMi/HAMi"),
+              ("kagent-dev/kagent",              "kagent-dev/kagent"),
+              ("kagent-dev/community",           "kagent-dev/community"),
+              ("agentevals-dev/agentevals",      "agentevals-dev/agentevals"),
+              ("NVIDIA/OpenShell",               "NVIDIA/OpenShell"),
+          ]
+
+          def count(repo, state):
+              q = f"author:mesutoezdil type:pr repo:{repo} is:{state}"
+              r = subprocess.run(
+                  ["gh", "api", f"search/issues?q={q}&per_page=1", "--jq", ".total_count"],
+                  capture_output=True, text=True
+              )
+              return int(r.stdout.strip() or "0")
+
+          rows = []
+          total_merged = total_open = 0
+          for label, repo in repos:
+              m = count(repo, "merged")
+              o = count(repo, "open")
+              total_merged += m
+              total_open += o
+              url = f"https://github.com/{repo}"
+              rows.append(f"| [{label}]({url}) | {m} | {o} |")
+
+          today = datetime.date.today().isoformat()
+          lines = [
+              "| Repo | Merged | Open |",
+              "|------|-------:|-----:|",
+              *rows,
+              f"| **Total** | **{total_merged}** | **{total_open}** |",
+              "",
+              f"_Updated: {today}_",
+          ]
+          block = "\n".join(lines)
+
+          with open("README.md") as f:
+              content = f.read()
+
+          new_content = re.sub(
+              r"<!-- CONTRIBUTIONS_START -->.*?<!-- CONTRIBUTIONS_END -->",
+              f"<!-- CONTRIBUTIONS_START -->\n{block}\n<!-- CONTRIBUTIONS_END -->",
+              content,
+              flags=re.DOTALL,
+          )
+
+          with open("README.md", "w") as f:
+              f.write(new_content)
+
+          print("Done.")
+          EOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "mesutoezdil"
+          git config user.email "mesudozdil@gmail.com"
+          git diff --quiet README.md || (
+            git add README.md &&
+            git commit -m "chore: update PR contribution stats" &&
+            git push
+          )
