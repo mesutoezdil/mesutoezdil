@@ -212,9 +212,3 @@ Real-world hands-on articles. Every command ran on a live cluster. Every output 
 </tr>
 </table>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C44B00,55:7B2D00,100:1A0500&height=120&section=footer" />
-</div>
