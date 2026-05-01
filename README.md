@@ -176,28 +176,6 @@ _Updated: 2026-05-01_
 
 ---
 
-## Writing
-
-<div align="center">
-
-Real-world hands-on articles. Every command ran on a live cluster. Every output is real.
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://mesutoezdil.medium.com)
-&nbsp;
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://mesutoezdil.substack.com)
-
-</div>
-
----
-
-## Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mesutoezdil&bg_color=120800&color=E8960C&line=C44B00&point=F0C060&area=true&area_color=3A1500&hide_border=true" />
-</div>
-
----
-
 ## Connect
 
 <div align="center">
