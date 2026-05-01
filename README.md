@@ -159,12 +159,12 @@ _Updated: 2026-05-01_
 ## GitHub Stats
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=mesutoezdil&show_icons=true&theme=github_dark&hide_border=true&bg_color=120800&title_color=E8960C&icon_color=C44B00&text_color=E8E0D5&rank_icon=github" />
-  <img height="175" src="https://streak-stats.demolab.com?user=mesutoezdil&hide_border=true&background=120800&ring=C44B00&fire=E8960C&currStreakLabel=E8960C&sideLabels=E8E0D5&dates=E8E0D5&currStreakNum=F0C060&stroke=7B2D00" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=mesutoezdil&show_icons=true&theme=github_dark_dimmed&hide_border=true&title_color=E8960C&icon_color=C44B00&rank_icon=github" />
+  <img height="175" src="https://streak-stats.demolab.com?user=mesutoezdil&theme=dark&hide_border=true&ring=C44B00&fire=E8960C&currStreakLabel=E8960C" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mesutoezdil&layout=compact&hide_border=true&bg_color=120800&title_color=E8960C&text_color=E8E0D5&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mesutoezdil&layout=compact&theme=github_dark_dimmed&hide_border=true&title_color=E8960C&langs_count=8" />
 </div>
 
 ---
