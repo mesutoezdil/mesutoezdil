@@ -11,9 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mesutoezdil&color=C44B00&style=flat-square&label=Profile+Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/mesutoezdil?color=C44B00&style=flat-square&logo=github&label=Followers" />
 </div>
 
 <br/>
