@@ -114,7 +114,7 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 | [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 11 | 2 |
 | [kagent-dev/community](https://github.com/kagent-dev/community) | 0 | 1 |
 | [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) | 0 | 1 |
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 1 | 0 |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 1 | 1 |
 
 _Updated: 2026-05-01_
 <!-- CONTRIBUTIONS_END -->
