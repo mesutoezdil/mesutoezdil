@@ -77,6 +77,18 @@ AI agents as native Kubernetes CRDs. Contributing to the project that lets agent
 
 </td>
 </tr>
+<tr>
+<td align="center" width="50%">
+
+**[agentevals](https://github.com/agentevals-dev/agentevals)** · OTel-based agent evaluation
+
+![agentevals](https://img.shields.io/badge/Contributor-agentevals-7B2D00?style=flat-square&logo=opentelemetry&logoColor=white)
+
+Evaluation framework for AI agents using OpenTelemetry traces. Contributing zero-code OTLP examples and integration tests.
+
+</td>
+<td align="center" width="50%"></td>
+</tr>
 </table>
 </div>
 
