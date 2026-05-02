@@ -109,7 +109,7 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 | [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 11 | 2 |
 | [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) | 0 | 1 |
 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 3 | 0 |
-| [aaif](https://github.com/aaif) | 0 | 9 |
+| [Agentic AI Foundation](https://github.com/aaif) | 0 | 9 |
 
 _Updated: 2026-05-02_
 <!-- CONTRIBUTIONS_END -->
