@@ -107,7 +107,6 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 | [Project-HAMi/website](https://github.com/Project-HAMi/website) | 98 | 16 |
 | [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 0 | 4 |
 | [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 11 | 2 |
-| [kagent-dev/community](https://github.com/kagent-dev/community) | 0 | 1 |
 | [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) | 0 | 1 |
 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 3 | 0 |
 | [aaif](https://github.com/aaif) | 0 | 9 |
