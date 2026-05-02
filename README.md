@@ -110,10 +110,7 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 | [kagent-dev/community](https://github.com/kagent-dev/community) | 0 | 1 |
 | [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) | 0 | 1 |
 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 3 | 0 |
-| [aaif/project-proposals](https://github.com/aaif/project-proposals) | 0 | 4 |
-| [aaif/aaif-landscape](https://github.com/aaif/aaif-landscape) | 0 | 1 |
-| [aaif/working-group-proposals](https://github.com/aaif/working-group-proposals) | 0 | 3 |
-| [aaif/foundation](https://github.com/aaif/foundation) | 0 | 1 |
+| [aaif](https://github.com/aaif) | 0 | 9 |
 
 _Updated: 2026-05-02_
 <!-- CONTRIBUTIONS_END -->
