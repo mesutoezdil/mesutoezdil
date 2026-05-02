@@ -104,14 +104,18 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 <!-- CONTRIBUTIONS_START -->
 | Repo | Merged | Open |
 |------|-------:|-----:|
-| [Project-HAMi/website](https://github.com/Project-HAMi/website) | 98 | 11 |
-| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 0 | 2 |
+| [Project-HAMi/website](https://github.com/Project-HAMi/website) | 98 | 16 |
+| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 0 | 4 |
 | [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 11 | 2 |
 | [kagent-dev/community](https://github.com/kagent-dev/community) | 0 | 1 |
 | [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) | 0 | 1 |
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 1 | 1 |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 3 | 0 |
+| [aaif/project-proposals](https://github.com/aaif/project-proposals) | 0 | 4 |
+| [aaif/aaif-landscape](https://github.com/aaif/aaif-landscape) | 0 | 1 |
+| [aaif/working-group-proposals](https://github.com/aaif/working-group-proposals) | 0 | 3 |
+| [aaif/foundation](https://github.com/aaif/foundation) | 0 | 1 |
 
-_Updated: 2026-05-01_
+_Updated: 2026-05-02_
 <!-- CONTRIBUTIONS_END -->
 
 </div>
