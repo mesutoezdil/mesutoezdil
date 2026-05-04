@@ -110,10 +110,10 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 | [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) | 0 | 1 |
 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 4 | 2 |
 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 0 | 1 |
-| [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 0 | 2 |
+| [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 1 | 0 |
 | [Agentic AI Foundation](https://github.com/aaif) | 0 | 9 |
 
-_Updated: 2026-05-03_
+_Updated: 2026-05-04_
 <!-- CONTRIBUTIONS_END -->
 
 </div>
