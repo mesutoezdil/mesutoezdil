@@ -119,6 +119,32 @@ _Updated: 2026-05-07_
 
 ## Other Contributions
 
+**Issues Opened**
+
+| Repo | Issue |
+|------|-------|
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | [Add GPU memory field for HAMi vGPU sharing](https://github.com/NVIDIA/OpenShell/issues/1065) |
+| [kagent-dev/tools](https://github.com/kagent-dev/tools) | [Built-in tool: wait for K8s resource conditions](https://github.com/kagent-dev/tools/issues/56) |
+| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | [Remove stale tasklist.md](https://github.com/Project-HAMi/HAMi/issues/1763) |
+| [Project-HAMi/community](https://github.com/Project-HAMi/community) | [HAMi community membership](https://github.com/Project-HAMi/community/issues/37) |
+
+**Code Reviews**
+
+| Repo | PR |
+|------|----|
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | [docs: supported provider types](https://github.com/NVIDIA/OpenShell/pull/1180) |
+| [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | [fix: forward allowedHeaders](https://github.com/kagent-dev/kagent/pull/1733) |
+| [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | [feat: sidecar extraContainers](https://github.com/kagent-dev/kagent/pull/1724) |
+| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | [docs: HAMi quick start guide](https://github.com/Project-HAMi/HAMi/pull/1718) |
+
+**CNCF TOC Participation**
+
+| Initiative |
+|------------|
+| [AI for Science (AI4S) whitepaper](https://github.com/cncf/toc/issues/2002) |
+| [Cloud-Native Agentic Systems](https://github.com/cncf/toc/issues/1746) |
+## Other Contributions
+
 <div align="center">
 <table>
 <tr>
