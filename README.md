@@ -117,7 +117,13 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 _Updated: 2026-05-07_
 <!-- CONTRIBUTIONS_END -->
 
+</div>
+
+---
+
 ## Other Contributions
+
+<div align="center">
 
 **Issues Opened**
 
@@ -136,30 +142,6 @@ _Updated: 2026-05-07_
 | [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | [fix: forward allowedHeaders](https://github.com/kagent-dev/kagent/pull/1733) |
 | [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | [feat: sidecar extraContainers](https://github.com/kagent-dev/kagent/pull/1724) |
 | [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | [docs: HAMi quick start guide](https://github.com/Project-HAMi/HAMi/pull/1718) |
-
----
-
-## Other Contributions
-
-<div align="center">
-
-**Issues Opened**
-
-| Repo | Issue |
-|------|-------|
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Add GPU memory field for HAMi vGPU sharing |
-| [kagent-dev/tools](https://github.com/kagent-dev/tools) | Built-in tool: wait for K8s resource conditions |
-| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | Remove stale tasklist.md |
-| [Project-HAMi/community](https://github.com/Project-HAMi/community) | HAMi community membership |
-
-**Code Reviews**
-
-| Repo | PR |
-|------|----|
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | docs: supported provider types |
-| [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | fix: forward allowedHeaders |
-| [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | feat: sidecar extraContainers |
-| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | docs: HAMi quick start guide |
 
 </div>
 
