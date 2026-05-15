@@ -109,7 +109,6 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 14 | 4 |
 | [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 7 | 1 |
 | [Agentic AI Foundation](https://github.com/aaif) | 5 | 1 |
-| [mesutoezdil/Systematic-CUDA-Learning](https://github.com/mesutoezdil/Systematic-CUDA-Learning) | 3 | 0 |
 | [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) | 1 | 5 |
 | [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 1 | 0 |
 | [kagent-dev/community](https://github.com/kagent-dev/community) | 0 | 1 |
