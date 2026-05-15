@@ -104,18 +104,20 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 <!-- CONTRIBUTIONS_START -->
 | Repo | Merged | Open |
 |------|-------:|-----:|
-| [Project-HAMi/website](https://github.com/Project-HAMi/website) | 145 | 24 |
-| [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 13 | 4 |
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 12 | 2 |
-| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 4 | 3 |
-| [Agentic AI Foundation](https://github.com/aaif) | 1 | 8 |
+| [Project-HAMi/website](https://github.com/Project-HAMi/website) | 176 | 7 |
+| [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 15 | 2 |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 14 | 4 |
+| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 7 | 1 |
+| [Agentic AI Foundation](https://github.com/aaif) | 5 | 1 |
+| [mesutoezdil/Systematic-CUDA-Learning](https://github.com/mesutoezdil/Systematic-CUDA-Learning) | 3 | 0 |
+| [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) | 1 | 5 |
 | [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 1 | 0 |
-| [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) | 0 | 4 |
 | [kagent-dev/community](https://github.com/kagent-dev/community) | 0 | 1 |
 | [kagent-dev/tools](https://github.com/kagent-dev/tools) | 0 | 1 |
 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 0 | 1 |
+| [nebius/serverless-ai-cookbook](https://github.com/nebius/serverless-ai-cookbook) | 0 | 1 |
 
-_Updated: 2026-05-11_
+_Updated: 2026-05-15_
 <!-- CONTRIBUTIONS_END -->
 
 </div>
