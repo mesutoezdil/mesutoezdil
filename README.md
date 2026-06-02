@@ -124,6 +124,24 @@ _Updated: 2026-06-02_
 
 ---
 
+## Publications
+
+**AI Fabric Specialization for Agentic AI** · [Open Compute Project Foundation](https://www.opencompute.org/)
+
+> From General-Purpose Inference to Autonomous, Long-Running Agent Workflows
+
+AI HW/SW Co-Design Workgroup · Co-author · Publishing June 2026
+
+---
+
+**Cloud Native HPC and AI Infrastructure** · [Packt](https://www.packtpub.com/)
+
+> Building High-Performance Computing Platforms with Kubernetes
+
+Co-author with Sanjeev Ganjihal · ~432 pages · Publishing November 2026
+
+---
+
 ## Core Tooling
 
 <div align="center">
