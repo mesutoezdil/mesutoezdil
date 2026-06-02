@@ -138,10 +138,10 @@ _Updated: 2026-06-02_
 
 **OCP AI HW/SW Co-Design Workstream** · Technical Deep-Dives
 
-> **MCP Deep-Dive:** From Protocol Basics to Custom Extensions · May 15, 2026 · _Video coming soon_
+> **MCP Deep-Dive:** From Protocol Basics to Custom Extensions · May 15, 2026 · [Watch on YouTube](https://www.youtube.com/watch?v=TcDN6n5Ba7U)
 > A practical tour of the Model Context Protocol, what it is, why it matters, and how to extend it. (JSON-RPC 2.0 · Open Spec · Extensible)
 
-> **A2A Deep-Dive (Part 2 of a Series):** After the Tool Layer: A2A and the Protocols Agents Speak to Each Other · May 29, 2026 · _Video coming soon_
+> **A2A Deep-Dive (Part 2 of a Series):** After the Tool Layer: A2A and the Protocols Agents Speak to Each Other · May 29, 2026 · [Watch on YouTube](https://www.youtube.com/watch?v=eXS9BBAKO8A)
 > A practical tour of A2A, where it sits next to MCP, and how agents on the wire actually find one another.
 
 ---
