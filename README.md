@@ -101,6 +101,10 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 
 <div align="center">
 
+[![DevStats](https://devstats.app/?username=mesutoezdil&theme=cncf)](https://github.com/Skarlso/devstats)
+
+
+
 <!-- CONTRIBUTIONS_START -->
 | Repo | Merged | Open |
 |------|-------:|-----:|
