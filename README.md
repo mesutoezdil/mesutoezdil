@@ -104,11 +104,11 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 <!-- CONTRIBUTIONS_START -->
 | Repo | Merged | Open |
 |------|-------:|-----:|
-| [Project-HAMi/website](https://github.com/Project-HAMi/website) | 196 | 1 |
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 24 | 1 |
+| [Project-HAMi/website](https://github.com/Project-HAMi/website) | 197 | 4 |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 26 | 2 |
 | [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 16 | 2 |
 | [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 10 | 2 |
-| [Agentic AI Foundation](https://github.com/aaif) | 5 | 1 |
+| [Agentic AI Foundation](https://github.com/aaif) | 7 | 7 |
 | [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) | 1 | 5 |
 | [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 1 | 0 |
 | [kagent-dev/community](https://github.com/kagent-dev/community) | 0 | 1 |
@@ -117,7 +117,7 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 | [nebius/serverless-ai-cookbook](https://github.com/nebius/serverless-ai-cookbook) | 0 | 1 |
 | [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 0 | 1 |
 
-_Updated: 2026-05-28_
+_Updated: 2026-06-02_
 <!-- CONTRIBUTIONS_END -->
 
 </div>
