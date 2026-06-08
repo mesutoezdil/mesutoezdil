@@ -109,19 +109,22 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 | Repo | Merged | Open |
 |------|-------:|-----:|
 | [Project-HAMi/website](https://github.com/Project-HAMi/website) | 197 | 4 |
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 26 | 2 |
-| [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 16 | 2 |
-| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 10 | 2 |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 28 | 0 |
+| [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 21 | 3 |
+| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 14 | 2 |
 | [Agentic AI Foundation](https://github.com/aaif) | 7 | 7 |
+| [Project-HAMi/HAMi-DRA](https://github.com/Project-HAMi/HAMi-DRA) | 6 | 3 |
 | [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) | 1 | 5 |
 | [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 1 | 0 |
-| [kagent-dev/community](https://github.com/kagent-dev/community) | 0 | 1 |
-| [kagent-dev/tools](https://github.com/kagent-dev/tools) | 0 | 1 |
+| [cncf/gitdm](https://github.com/cncf/gitdm) | 1 | 0 |
+| [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) | 0 | 4 |
 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 0 | 1 |
 | [nebius/serverless-ai-cookbook](https://github.com/nebius/serverless-ai-cookbook) | 0 | 1 |
+| [kagent-dev/tools](https://github.com/kagent-dev/tools) | 0 | 1 |
+| [kagent-dev/community](https://github.com/kagent-dev/community) | 0 | 1 |
 | [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 0 | 1 |
 
-_Updated: 2026-06-02_
+_Updated: 2026-06-08_
 <!-- CONTRIBUTIONS_END -->
 
 </div>
