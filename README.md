@@ -157,6 +157,16 @@ _Updated: 2026-06-12_
 
 ---
 
+## Writing
+
+**OTel and Mesh-Derived Metrics** · [Buoyant](https://www.buoyant.io/)
+
+> OpenTelemetry and Linkerd service mesh metrics — where they complement each other and how to combine them in a unified observability pipeline.
+
+[Read on buoyant.io →](https://www.buoyant.io/blog/otel-and-mesh-derived-metrics)
+
+---
+
 ## Publications
 
 **AI Fabric Specialization for Agentic AI** · [Open Compute Project Foundation](https://www.opencompute.org/)
