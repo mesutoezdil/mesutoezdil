@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/CKS-Kubernetes%20Security-7B2D00?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/CKA-Kubernetes%20Admin-7B2D00?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/CDP-DevSecOps%20Professional-6B0000?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nebius-Fellow%20%7C%20Inaugural%20Cohort-0A5FFF?style=for-the-badge&logoColor=white" />
 </div>
 
 ---
@@ -44,6 +45,10 @@ $ cat certifications.txt
 $ cat writing.txt
   medium.com/@mesutoezdil      real clusters, real output, no fluff
   mesutoezdil.substack.com     no AI-generated noise
+
+$ cat recognition.txt
+  Nebius Fellow                Inaugural cohort · 2026
+                               nebius.com/fellows
 ```
 
 ---
