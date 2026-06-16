@@ -116,31 +116,31 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 <!-- CONTRIBUTIONS_START -->
 | Repo | Merged | Open |
 |------|-------:|-----:|
-| [Project-HAMi/website](https://github.com/Project-HAMi/website) | 199 | 4 |
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 29 | 2 |
-| [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 22 | 6 |
-| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 14 | 2 |
-| [Project-HAMi/HAMi-DRA](https://github.com/Project-HAMi/HAMi-DRA) | 10 | 2 |
+| [Project-HAMi/website](https://github.com/Project-HAMi/website) | 200 | 4 |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 29 | 4 |
+| [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 24 | 4 |
+| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 15 | 1 |
+| [Project-HAMi/HAMi-DRA](https://github.com/Project-HAMi/HAMi-DRA) | 14 | 1 |
+| [Project-HAMi/HAMi-core](https://github.com/Project-HAMi/HAMi-core) | 3 | 0 |
 | [aaif/project-proposals](https://github.com/aaif/project-proposals) | 3 | 0 |
 | [aaif/working-group-proposals](https://github.com/aaif/working-group-proposals) | 3 | 0 |
 | [mesutoezdil/Systematic-CUDA-Learning](https://github.com/mesutoezdil/Systematic-CUDA-Learning) | 3 | 0 |
-| [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) | 1 | 5 |
 | [aaif/foundation](https://github.com/aaif/foundation) | 2 | 1 |
+| [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) | 1 | 5 |
+| [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 1 | 2 |
 | [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 1 | 0 |
 | [cncf/gitdm](https://github.com/cncf/gitdm) | 1 | 0 |
 | [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) | 0 | 4 |
 | [aaif/technical-committee](https://github.com/aaif/technical-committee) | 0 | 3 |
-| [Project-HAMi/HAMi-core](https://github.com/Project-HAMi/HAMi-core) | 0 | 1 |
 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 0 | 1 |
 | [nebius/serverless-ai-cookbook](https://github.com/nebius/serverless-ai-cookbook) | 0 | 1 |
 | [kagent-dev/tools](https://github.com/kagent-dev/tools) | 0 | 1 |
 | [kagent-dev/community](https://github.com/kagent-dev/community) | 0 | 1 |
-| [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 0 | 2 |
 | [aaif/public-agents](https://github.com/aaif/public-agents) | 0 | 1 |
 | [aaif/aaif-landscape](https://github.com/aaif/aaif-landscape) | 0 | 1 |
 | [NVIDIA/nvcf](https://github.com/NVIDIA/nvcf) | 0 | 0 |
 
-_Updated: 2026-06-14_
+_Updated: 2026-06-16_
 <!-- CONTRIBUTIONS_END -->
 
 </div>
