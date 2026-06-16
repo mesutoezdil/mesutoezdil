@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/CKA-Kubernetes%20Admin-7B2D00?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/CDP-DevSecOps%20Professional-6B0000?style=for-the-badge&logo=shield&logoColor=white" />
   <img src="https://img.shields.io/badge/Nebius-Fellow%20%7C%20Inaugural%20Cohort-0A5FFF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiFT-Linux%20Foundation%20Scholar-003366?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
 ---
@@ -49,6 +50,8 @@ $ cat writing.txt
 $ cat recognition.txt
   Nebius Fellow                Inaugural cohort · 2026
                                nebius.com/fellows
+  LiFT Scholarship             Linux Foundation Training · 2026
+                               e-Learning + Certification exam · linuxfoundation.org
 ```
 
 ---
