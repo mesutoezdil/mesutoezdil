@@ -108,12 +108,12 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 <!-- CONTRIBUTIONS_START -->
 | Repo | Merged | Open |
 |------|-------:|-----:|
-| [Project-HAMi/website](https://github.com/Project-HAMi/website) | 200 | 4 |
+| [Project-HAMi/website](https://github.com/Project-HAMi/website) | 200 | 5 |
 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 29 | 4 |
-| [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 24 | 4 |
-| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 15 | 1 |
-| [Project-HAMi/HAMi-DRA](https://github.com/Project-HAMi/HAMi-DRA) | 14 | 1 |
-| [Project-HAMi/HAMi-core](https://github.com/Project-HAMi/HAMi-core) | 3 | 0 |
+| [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 27 | 3 |
+| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 15 | 4 |
+| [Project-HAMi/HAMi-DRA](https://github.com/Project-HAMi/HAMi-DRA) | 15 | 0 |
+| [Project-HAMi/HAMi-core](https://github.com/Project-HAMi/HAMi-core) | 3 | 6 |
 | [aaif/project-proposals](https://github.com/aaif/project-proposals) | 3 | 0 |
 | [aaif/working-group-proposals](https://github.com/aaif/working-group-proposals) | 3 | 0 |
 | [mesutoezdil/Systematic-CUDA-Learning](https://github.com/mesutoezdil/Systematic-CUDA-Learning) | 3 | 0 |
@@ -132,7 +132,7 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 | [aaif/aaif-landscape](https://github.com/aaif/aaif-landscape) | 0 | 1 |
 | [NVIDIA/nvcf](https://github.com/NVIDIA/nvcf) | 0 | 0 |
 
-_Updated: 2026-06-16_
+_Updated: 2026-06-18_
 <!-- CONTRIBUTIONS_END -->
 
 </div>
