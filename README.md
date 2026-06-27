@@ -120,7 +120,6 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 | [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) | 1 | 3 |
 | [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 1 | 0 |
 | [cncf/gitdm](https://github.com/cncf/gitdm) | 1 | 0 |
-| [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 0 | 1 |
 | [nebius/serverless-ai-cookbook](https://github.com/nebius/serverless-ai-cookbook) | 0 | 1 |
 | [kagent-dev/community](https://github.com/kagent-dev/community) | 0 | 1 |
 | [kagent-dev/tools](https://github.com/kagent-dev/tools) | 0 | 0 |
