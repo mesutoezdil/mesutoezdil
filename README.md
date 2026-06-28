@@ -116,7 +116,6 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 | [Project-HAMi/HAMi-core](https://github.com/Project-HAMi/HAMi-core) | 3 | 8 |
 | [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 3 | 1 |
 | [mesutoezdil/Systematic-CUDA-Learning](https://github.com/mesutoezdil/Systematic-CUDA-Learning) | 3 | 0 |
-| [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) | 1 | 5 |
 | [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) | 1 | 3 |
 | [nebius/serverless-ai-cookbook](https://github.com/nebius/serverless-ai-cookbook) | 0 | 1 |
 | [kagent-dev/community](https://github.com/kagent-dev/community) | 0 | 1 |
