@@ -117,7 +117,6 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 | [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 3 | 1 |
 | [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) | 1 | 3 |
 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 8 | 10 |
-| [cncf/gitdm](https://github.com/cncf/gitdm) | 1 | 0 |
 | [nebius/serverless-ai-cookbook](https://github.com/nebius/serverless-ai-cookbook) | 0 | 1 |
 | [kagent-dev/community](https://github.com/kagent-dev/community) | 0 | 1 |
 
