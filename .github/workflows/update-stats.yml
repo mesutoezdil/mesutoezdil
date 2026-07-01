@@ -30,6 +30,15 @@ jobs:
               ("NVIDIA/OpenShell",               "NVIDIA/OpenShell"),
           ]
 
+          # ponytail: never show these repos in the table, regardless of PR activity
+          BLOCKED_REPOS = {
+              "aaif/working-group-proposals",
+              "aaif/project-proposals",
+              "aaif/foundation",
+              "modelcontextprotocol/registry",
+          }
+          repos = [(label, repo) for label, repo in repos if repo not in BLOCKED_REPOS]
+
           def count(repo, state):
               q = f"author:mesutoezdil type:pr repo:{repo} is:{state}"
               r = subprocess.run(

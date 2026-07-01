@@ -118,11 +118,7 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 12 | 11 |
 | [Project-HAMi/HAMi-core](https://github.com/Project-HAMi/HAMi-core) | 11 | 0 |
 | [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 3 | 1 |
-| [aaif/working-group-proposals](https://github.com/aaif/working-group-proposals) | 3 | 0 |
-| [aaif/project-proposals](https://github.com/aaif/project-proposals) | 3 | 0 |
-| [aaif/foundation](https://github.com/aaif/foundation) | 2 | 0 |
 | [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) | 1 | 3 |
-| [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 1 | 0 |
 | [cncf/gitdm](https://github.com/cncf/gitdm) | 1 | 0 |
 | [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) | 1 | 0 |
 | [nebius/serverless-ai-cookbook](https://github.com/nebius/serverless-ai-cookbook) | 0 | 1 |
