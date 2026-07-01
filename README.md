@@ -66,6 +66,8 @@ $ cat recognition.txt
 **[Project HAMi](https://project-hami.io)** · CNCF Sandbox
 
 ![HAMi](https://img.shields.io/badge/Member-HAMi%20Community-C44B00?style=flat-square&logo=cncf&logoColor=white)
+![HAMi](https://img.shields.io/badge/Core%20Contributor-HAMi-C44B00?style=flat-square&logo=cncf&logoColor=white)
+![HAMi](https://img.shields.io/badge/Reviewer-HAMi-C44B00?style=flat-square&logo=cncf&logoColor=white)
 
 GPU virtualization and resource sharing for AI/ML workloads on Kubernetes. Active community member contributing to real-world GPU sharing and overcommit protection.
 
