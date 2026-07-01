@@ -147,6 +147,14 @@ _Updated: 2026-06-28_
 
 ## Writing
 
+**OTel and Mesh-Derived Metrics: A 2026 Reference** · [CNCF](https://www.cncf.io/)
+
+> A reference on combining OpenTelemetry with service mesh-derived metrics, published on the CNCF blog. June 29, 2026.
+
+[Read on cncf.io →](https://www.cncf.io/blog/2026/06/29/otel-and-mesh-derived-metrics-a-2026-reference/)
+
+---
+
 **OTel and Mesh-Derived Metrics** · [Buoyant](https://www.buoyant.io/)
 
 > OpenTelemetry and Linkerd service mesh metrics — where they complement each other and how to combine them in a unified observability pipeline.
