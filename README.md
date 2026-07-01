@@ -173,6 +173,14 @@ _Updated: 2026-07-01_
 
 ## Publications
 
+**Scheduling Capabilities Suite** · Independent Research
+
+> A scheduler-agnostic evaluation framework for cluster scheduling capabilities, fair-share, backfill, preemption, priority queues, and topology-aware placement, tested against real AI/ML workloads. Starting with Kueue, extended to Volcano and KAI Scheduler as the suite grows.
+
+Continuation of the prior scheduling series · Work in progress
+
+---
+
 **AI Fabric Specialization for Agentic AI** · [Open Compute Project Foundation](https://www.opencompute.org/)
 
 > From General-Purpose Inference to Autonomous, Long-Running Agent Workflows
