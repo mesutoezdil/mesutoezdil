@@ -36,6 +36,7 @@ jobs:
               "aaif/project-proposals",
               "aaif/foundation",
               "modelcontextprotocol/registry",
+              "agentevals-dev/agentevals",
           }
           repos = [(label, repo) for label, repo in repos if repo not in BLOCKED_REPOS]
 
