@@ -133,6 +133,8 @@ _Updated: 2026-06-28_
 
 > OpenTelemetry After the Hype: Making Observability a Platform Primitive
 
+<a href="https://www.virtualbadge.io/certificate-validator?credential=b9e7bf46-ded8-433b-98c3-e2d8d0b4d504"><img src="assets/platformcon-2026-speaker-badge.png" alt="PlatformCon 2026 Speaker Badge" width="140" /></a>
+
 ---
 
 **OCP AI HW/SW Co-Design Workstream** · Technical Deep-Dives
