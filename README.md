@@ -173,7 +173,7 @@ _Updated: 2026-07-01_
 
 ## Publications
 
-**Scheduling Capabilities Suite** · Independent Research
+**Scheduling Capabilities Suite** · [CNCF](https://www.cncf.io/)
 
 > A scheduler-agnostic evaluation framework for cluster scheduling capabilities, fair-share, backfill, preemption, priority queues, and topology-aware placement, tested against real AI/ML workloads. Starting with Kueue, extended to Volcano and KAI Scheduler as the suite grows.
 
