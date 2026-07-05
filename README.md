@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/CKS-Kubernetes%20Security-7B2D00?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/CKA-Kubernetes%20Admin-7B2D00?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/CDP-DevSecOps%20Professional-6B0000?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nebius-AI%20CloudOps%20Engineer-0A5FFF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Nebius-Fellow%20%7C%20Inaugural%20Cohort-0A5FFF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LiFT-Linux%20Foundation%20Scholar-003366?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
@@ -42,6 +43,7 @@ $ cat certifications.txt
   CKS    Certified Kubernetes Security Specialist
   CKA    Certified Kubernetes Administrator
   CDP    Certified DevSecOps Professional
+  Nebius AI CloudOps Engineer · Associate
 
 $ cat writing.txt
   medium.com/@mesutoezdil      real clusters, real output, no fluff
