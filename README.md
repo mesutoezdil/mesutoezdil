@@ -132,7 +132,7 @@ _Updated: 2026-07-01_
 
 ## Speaking
 
-**PlatformCon 2026** · Accepted · June 22–26, 2026
+**PlatformCon 2026** · June 22–26, 2026 · [Watch on YouTube](https://www.youtube.com/watch?v=IALT3R8mWI8)
 
 > OpenTelemetry After the Hype: Making Observability a Platform Primitive
 
