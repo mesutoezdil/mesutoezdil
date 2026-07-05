@@ -56,6 +56,14 @@ $ cat recognition.txt
                                e-Learning + Certification exam · linuxfoundation.org
 ```
 
+<div align="center">
+
+<a href="https://nebius.com/certification"><img src="assets/nebius-ai-cloudops-engineer-certification.png" alt="Nebius AI CloudOps Engineer Certification" width="140" /></a>
+
+<sub>Nebius AI CloudOps Engineer · Issued Jul 2026 · Expires Jul 2029 · ID: `ce101b80-3542-49b2-a6e1-2f47608da4c1`</sub>
+
+</div>
+
 ---
 
 ## Open Source
