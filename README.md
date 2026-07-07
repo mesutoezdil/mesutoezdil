@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0500,45:7B2D00,100:C44B00&height=220&section=header&text=Mesut%20Oezdil&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Open%20Source%20Contributor%20%7C%20CNCF%20Community&descSize=16&descColor=F0C060&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0500,45:7B2D00,100:C44B00&height=220&section=header&text=Mesut%20Oezdil&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20CNCF%20TAG%20Infrastructure%20Tech%20Lead%20%7C%20Open%20Source%20Contributor&descSize=16&descColor=F0C060&animation=fadeIn" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=E8960C&center=true&vCenter=true&width=720&lines=GPU+Virtualization+on+Kubernetes+%7C+Project+HAMi+%C2%B7+CNCF+Sandbox;AI+Agents+as+K8s+Resources+%7C+kagent+%C2%B7+Istio;CUDA+and+GPU+Architecture+%7C+from+fundamentals+to+production;CKS+%C2%B7+CKA+%C2%B7+CDP+Certified;DevOps+Engineer+%C2%B7+Open+Source+Contributor+%C2%B7+Germany" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=E8960C&center=true&vCenter=true&width=720&lines=CNCF+TAG+Infrastructure+%7C+Tech+Lead;GPU+Virtualization+on+Kubernetes+%7C+Project+HAMi+%C2%B7+CNCF+Sandbox;AI+Agents+as+K8s+Resources+%7C+kagent+%C2%B7+Istio;CUDA+and+GPU+Architecture+%7C+from+fundamentals+to+production;CKS+%C2%B7+CKA+%C2%B7+CDP+Certified;DevOps+Engineer+%C2%B7+Open+Source+Contributor+%C2%B7+Germany" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,6 +14,7 @@
 <br/>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/CNCF-TAG%20Infrastructure%20Tech%20Lead-0086FF?style=for-the-badge&logo=cncf&logoColor=white" />
   <img src="https://img.shields.io/badge/CKS-Kubernetes%20Security-7B2D00?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/CKA-Kubernetes%20Admin-7B2D00?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/CDP-DevSecOps%20Professional-6B0000?style=for-the-badge&logo=shield&logoColor=white" />
@@ -28,7 +29,7 @@
 
 ```sh
 $ whoami
-  DevOps Engineer · Open Source Contributor · Germany
+  DevOps Engineer · CNCF TAG Infrastructure Tech Lead · Germany
 
 $ cat philosophy.txt
   Be like water. Adapt to the system. Find the path.
@@ -50,6 +51,8 @@ $ cat writing.txt
   mesutoezdil.substack.com     no AI-generated noise
 
 $ cat recognition.txt
+  CNCF TAG Infrastructure      Tech Lead · Elected Jul 2026
+                               github.com/cncf/toc · tags/tag-infrastructure
   Nebius Fellow                Inaugural cohort · 2026
                                nebius.com/fellows
   LiFT Scholarship             Linux Foundation Training · 2026
