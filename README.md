@@ -87,11 +87,11 @@ GPU virtualization and resource sharing for AI/ML workloads on Kubernetes. Activ
 </td>
 <td align="center" width="50%">
 
-**[kagent](https://github.com/kagent-dev/kagent)** · solo.io / Istio
+**[kagent](https://github.com/kagent-dev/kagent)** · Istio
 
-![kagent](https://img.shields.io/badge/Reviewer%20Applicant-kagent-A63200?style=flat-square&logo=argo&logoColor=white)
+![kagent](https://img.shields.io/badge/Contributor-kagent-A63200?style=flat-square&logo=argo&logoColor=white)
 
-AI agents as native Kubernetes CRDs. 27 merged PRs across Bedrock, go-adk, Helm, CLI, and controller. Reviewer application open.
+AI agents as native Kubernetes CRDs. Contributing across Bedrock, go-adk, Helm, CLI, and controller.
 
 </td>
 </tr>
