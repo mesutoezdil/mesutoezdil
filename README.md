@@ -35,8 +35,8 @@ $ cat philosophy.txt
   Be like water. Adapt to the system. Find the path.
 
 $ cat current_work.txt
-  GPU virtualization on Kubernetes      Project HAMi    (CNCF Sandbox)
-  AI agents as K8s resources            kagent           (Istio · solo.io)
+  GPU virtualization on Kubernetes      Project HAMi
+  AI agents as K8s resources            kagent
   CUDA and GPU architecture             Systematic CUDA Learning
   IaC and zero-trust IAM                OpenTofu · Keycloak · Vault
 
