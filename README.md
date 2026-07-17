@@ -123,20 +123,30 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 <!-- CONTRIBUTIONS_START -->
 | Repo | Merged | Open |
 |------|-------:|-----:|
-| [Project-HAMi/website](https://github.com/Project-HAMi/website) | 249 | 2 |
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 32 | 1 |
-| [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 31 | 2 |
-| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 26 | 1 |
-| [Project-HAMi/HAMi-DRA](https://github.com/Project-HAMi/HAMi-DRA) | 15 | 0 |
-| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 12 | 11 |
-| [Project-HAMi/HAMi-core](https://github.com/Project-HAMi/HAMi-core) | 11 | 0 |
-| [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 3 | 1 |
+| [Project-HAMi/website](https://github.com/Project-HAMi/website) | 315 | 13 |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 39 | 5 |
+| [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 37 | 5 |
+| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 33 | 5 |
+| [Project-HAMi/HAMi-DRA](https://github.com/Project-HAMi/HAMi-DRA) | 33 | 4 |
+| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 21 | 8 |
+| [Project-HAMi/HAMi-core](https://github.com/Project-HAMi/HAMi-core) | 12 | 1 |
+| [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 12 | 1 |
+| [NVIDIA/nvcf](https://github.com/NVIDIA/nvcf) | 7 | 12 |
+| [mesutoezdil/Systematic-CUDA-Learning](https://github.com/mesutoezdil/Systematic-CUDA-Learning) | 3 | 0 |
+| [aaif/working-group-proposals](https://github.com/aaif/working-group-proposals) | 3 | 0 |
+| [aaif/project-proposals](https://github.com/aaif/project-proposals) | 3 | 0 |
+| [aaif/foundation](https://github.com/aaif/foundation) | 2 | 0 |
 | [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) | 1 | 3 |
+| [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 1 | 0 |
+| [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) | 1 | 0 |
+| [cncf/landscape](https://github.com/cncf/landscape) | 1 | 0 |
 | [cncf/gitdm](https://github.com/cncf/gitdm) | 1 | 0 |
+| [agentevals-dev/agentevals](https://github.com/agentevals-dev/agentevals) | 1 | 0 |
+| [Project-HAMi/KAI-resource-isolator](https://github.com/Project-HAMi/KAI-resource-isolator) | 0 | 1 |
 | [nebius/serverless-ai-cookbook](https://github.com/nebius/serverless-ai-cookbook) | 0 | 1 |
 | [kagent-dev/community](https://github.com/kagent-dev/community) | 0 | 1 |
 
-_Updated: 2026-07-01_
+_Updated: 2026-07-17_
 <!-- CONTRIBUTIONS_END -->
 
 </div>
