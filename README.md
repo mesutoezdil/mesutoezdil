@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/CKA-Kubernetes%20Admin-7B2D00?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/CDP-DevSecOps%20Professional-6B0000?style=for-the-badge&logo=shield&logoColor=white" />
   <img src="https://img.shields.io/badge/Nebius-AI%20CloudOps%20Engineer-0A5FFF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nebius-Agentic%20AI%20Builder-0A5FFF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Nebius-Fellow%20%7C%20Inaugural%20Cohort-0A5FFF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LiFT-Linux%20Foundation%20Scholar-003366?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
@@ -45,6 +46,7 @@ $ cat certifications.txt
   CKA    Certified Kubernetes Administrator
   CDP    Certified DevSecOps Professional
   Nebius AI CloudOps Engineer · Associate
+  Nebius Agentic AI Builder · Associate
 
 $ cat writing.txt
   medium.com/@mesutoezdil      real clusters, real output, no fluff
@@ -62,8 +64,12 @@ $ cat recognition.txt
 <div align="center">
 
 <a href="https://nebius.com/certification"><img src="assets/nebius-ai-cloudops-engineer-certification.png" alt="Nebius AI CloudOps Engineer Certification" width="140" /></a>
+&nbsp;&nbsp;
+<a href="https://nebius.com/certification"><img src="assets/nebius-agentic-ai-builder-certification.png" alt="Nebius Agentic AI Builder Certification" width="140" /></a>
 
 <sub>Nebius AI CloudOps Engineer · Issued Jul 2026 · Expires Jul 2029 · ID: `ce101b80-3542-49b2-a6e1-2f47608da4c1`</sub>
+<br/>
+<sub>Nebius Agentic AI Builder · Associate</sub>
 
 </div>
 
@@ -176,7 +182,7 @@ _Updated: 2026-07-17_
 
 **OTel and Mesh-Derived Metrics** · [Buoyant](https://www.buoyant.io/)
 
-> OpenTelemetry and Linkerd service mesh metrics — where they complement each other and how to combine them in a unified observability pipeline.
+> OpenTelemetry and Linkerd service mesh metrics, where they complement each other and how to combine them in a unified observability pipeline.
 
 [Read on buoyant.io →](https://www.buoyant.io/blog/otel-and-mesh-derived-metrics)
 
