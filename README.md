@@ -69,7 +69,7 @@ $ cat recognition.txt
 
 <sub>Nebius AI CloudOps Engineer · Issued Jul 2026 · Expires Jul 2029 · ID: `ce101b80-3542-49b2-a6e1-2f47608da4c1`</sub>
 <br/>
-<sub>Nebius Agentic AI Builder · Associate</sub>
+<sub>Nebius Agentic AI Builder · Issued Jul 19, 2026 · ID: `6372bd7a-9a02-49d6-ac41-dfc3e7f7ef40`</sub>
 
 </div>
 
@@ -130,20 +130,20 @@ Open source shell tooling by NVIDIA. Contributing to documentation and usability
 | Repo | Merged | Open |
 |------|-------:|-----:|
 | [Project-HAMi/website](https://github.com/Project-HAMi/website) | 315 | 13 |
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 39 | 5 |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 40 | 4 |
 | [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 37 | 5 |
-| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 33 | 5 |
+| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 33 | 6 |
 | [Project-HAMi/HAMi-DRA](https://github.com/Project-HAMi/HAMi-DRA) | 33 | 4 |
 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 21 | 8 |
+| [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 13 | 0 |
 | [Project-HAMi/HAMi-core](https://github.com/Project-HAMi/HAMi-core) | 12 | 1 |
-| [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 12 | 1 |
-| [NVIDIA/nvcf](https://github.com/NVIDIA/nvcf) | 7 | 12 |
+| [NVIDIA/nvcf](https://github.com/NVIDIA/nvcf) | 8 | 11 |
 | [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) | 1 | 3 |
 | [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) | 1 | 0 |
 | [Project-HAMi/KAI-resource-isolator](https://github.com/Project-HAMi/KAI-resource-isolator) | 0 | 1 |
 | [kagent-dev/community](https://github.com/kagent-dev/community) | 0 | 1 |
 
-_Updated: 2026-07-17_
+_Updated: 2026-07-19_
 <!-- CONTRIBUTIONS_END -->
 
 </div>
