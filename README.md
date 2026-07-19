@@ -75,49 +75,6 @@ $ cat recognition.txt
 
 ---
 
-## Open Source
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-**[Project HAMi](https://project-hami.io)** · CNCF Sandbox
-
-![HAMi](https://img.shields.io/badge/Member-HAMi%20Community-C44B00?style=flat-square&logo=cncf&logoColor=white)
-![HAMi](https://img.shields.io/badge/Core%20Contributor-HAMi-C44B00?style=flat-square&logo=cncf&logoColor=white)
-![HAMi](https://img.shields.io/badge/Reviewer-HAMi-C44B00?style=flat-square&logo=cncf&logoColor=white)
-
-GPU virtualization and resource sharing for AI/ML workloads on Kubernetes. Active community member contributing to real-world GPU sharing and overcommit protection.
-
-</td>
-<td align="center" width="50%">
-
-**[kagent](https://github.com/kagent-dev/kagent)** · Istio
-
-![kagent](https://img.shields.io/badge/Contributor-kagent-A63200?style=flat-square&logo=argo&logoColor=white)
-
-AI agents as native Kubernetes CRDs. Contributing across Bedrock, go-adk, Helm, CLI, and controller.
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)** · NVIDIA
-
-![OpenShell](https://img.shields.io/badge/Contributor-OpenShell-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
-Open source shell tooling by NVIDIA. Contributing to documentation and usability improvements.
-
-</td>
-<td></td>
-</tr>
-</table>
-</div>
-
----
-
 ## PR Contributions
 
 <div align="center">
