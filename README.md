@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=E8960C&center=true&vCenter=true&width=720&lines=CNCF+TAG+Infrastructure+%7C+Tech+Lead;GPU+Virtualization+on+Kubernetes+%7C+Project+HAMi+%C2%B7+CNCF+Sandbox;AI+Agents+as+K8s+Resources+%7C+kagent+%C2%B7+Istio;CUDA+and+GPU+Architecture+%7C+from+fundamentals+to+production;CKS+%C2%B7+CKA+%C2%B7+CDP+Certified;DevOps+Engineer+%C2%B7+Open+Source+Contributor+%C2%B7+Germany" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=E8960C&center=true&vCenter=true&width=720&lines=CNCF+TAG+Infrastructure+%7C+Tech+Lead;GPU+Virtualization+on+Kubernetes+%7C+Project+HAMi+%C2%B7+CNCF+Sandbox;AI+Agents+as+K8s+Resources+%7C+kagent;CUDA+and+GPU+Architecture+%7C+from+fundamentals+to+production;CKS+%C2%B7+CKA+%C2%B7+CDP+Certified;DevOps+Engineer+%C2%B7+Open+Source+Contributor+%C2%B7+Germany" alt="Typing SVG" />
   </a>
 </div>
 
