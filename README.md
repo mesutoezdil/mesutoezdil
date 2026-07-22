@@ -86,13 +86,13 @@ $ cat recognition.txt
 <!-- CONTRIBUTIONS_START -->
 | Repo | Merged | Open |
 |------|-------:|-----:|
-| [Project-HAMi/website](https://github.com/Project-HAMi/website) | 320 | 9 |
+| [Project-HAMi/website](https://github.com/Project-HAMi/website) | 326 | 16 |
+| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 45 | 5 |
 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 43 | 1 |
-| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 41 | 8 |
-| [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 38 | 7 |
+| [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 41 | 5 |
 | [Project-HAMi/HAMi-DRA](https://github.com/Project-HAMi/HAMi-DRA) | 33 | 4 |
-| [NVIDIA/nvcf](https://github.com/NVIDIA/nvcf) | 21 | 13 |
-| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 21 | 8 |
+| [NVIDIA/nvcf](https://github.com/NVIDIA/nvcf) | 30 | 4 |
+| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 22 | 7 |
 | [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 13 | 0 |
 | [Project-HAMi/HAMi-core](https://github.com/Project-HAMi/HAMi-core) | 12 | 1 |
 | [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) | 1 | 3 |
@@ -100,7 +100,7 @@ $ cat recognition.txt
 | [Project-HAMi/KAI-resource-isolator](https://github.com/Project-HAMi/KAI-resource-isolator) | 0 | 1 |
 | [kagent-dev/community](https://github.com/kagent-dev/community) | 0 | 1 |
 
-_Updated: 2026-07-21_
+_Updated: 2026-07-22_
 <!-- CONTRIBUTIONS_END -->
 
 </div>
