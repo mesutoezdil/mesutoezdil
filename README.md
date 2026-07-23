@@ -1,17 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0500,45:7B2D00,100:C44B00&height=220&section=header&text=Mesut%20Oezdil&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20CNCF%20TAG%20Infrastructure%20Tech%20Lead%20%7C%20Open%20Source%20Contributor&descSize=16&descColor=F0C060&animation=fadeIn" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=E8960C&center=true&vCenter=true&width=720&lines=CNCF+TAG+Infrastructure+%7C+Tech+Lead;GPU+Virtualization+on+Kubernetes+%7C+Project+HAMi+%C2%B7+CNCF+Sandbox;AI+Agents+as+K8s+Resources+%7C+kagent;CUDA+and+GPU+Architecture+%7C+from+fundamentals+to+production;CKS+%C2%B7+CKA+%C2%B7+CDP+Certified;DevOps+Engineer+%C2%B7+Open+Source+Contributor+%C2%B7+Germany" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-
-<br/>
+<h1 align="center">Mesut Oezdil</h1>
+<p align="center">
+  DevOps Engineer &nbsp;·&nbsp; CNCF TAG Infrastructure Tech Lead &nbsp;·&nbsp; Open Source Contributor &nbsp;·&nbsp; Germany
+</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/CNCF-TAG%20Infrastructure%20Tech%20Lead-0086FF?style=for-the-badge&logo=cncf&logoColor=white" />
