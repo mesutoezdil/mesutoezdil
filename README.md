@@ -1,6 +1,6 @@
 <h1 align="center">Mesut Oezdil</h1>
 <p align="center">
-  DevOps Engineer &nbsp;·&nbsp; CNCF TAG Infrastructure Tech Lead &nbsp;·&nbsp; Open Source Contributor &nbsp;·&nbsp; Germany
+  DevOps Engineer &nbsp;·&nbsp; CNCF TAG Infrastructure Tech Lead
 </p>
 
 <div align="center">
