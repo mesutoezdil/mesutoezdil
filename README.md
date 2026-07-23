@@ -14,6 +14,14 @@
   <img src="https://img.shields.io/badge/LiFT-Linux%20Foundation%20Scholar-003366?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mesutoezdil/mesutoezdil/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mesutoezdil/mesutoezdil/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/mesutoezdil/mesutoezdil/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 ---
 
 ## About
@@ -60,38 +68,6 @@ $ cat recognition.txt
 <sub>Nebius AI CloudOps Engineer · Issued Jul 2026 · Expires Jul 2029 · ID: `ce101b80-3542-49b2-a6e1-2f47608da4c1`</sub>
 <br/>
 <sub>Nebius Agentic AI Builder · Issued Jul 19, 2026 · ID: `6372bd7a-9a02-49d6-ac41-dfc3e7f7ef40`</sub>
-
-</div>
-
----
-
-## PR Contributions
-
-<div align="center">
-
-[![DevStats](https://devstats.app/?username=mesutoezdil&theme=cncf)](https://devstats.app/?username=mesutoezdil)
-
-
-
-<!-- CONTRIBUTIONS_START -->
-| Repo | Merged | Open |
-|------|-------:|-----:|
-| [Project-HAMi/website](https://github.com/Project-HAMi/website) | 326 | 16 |
-| [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) | 45 | 5 |
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 43 | 1 |
-| [kagent-dev/kagent](https://github.com/kagent-dev/kagent) | 41 | 5 |
-| [Project-HAMi/HAMi-DRA](https://github.com/Project-HAMi/HAMi-DRA) | 33 | 4 |
-| [NVIDIA/nvcf](https://github.com/NVIDIA/nvcf) | 30 | 4 |
-| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 22 | 7 |
-| [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 13 | 0 |
-| [Project-HAMi/HAMi-core](https://github.com/Project-HAMi/HAMi-core) | 12 | 1 |
-| [kubernetes-sigs/dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu) | 1 | 3 |
-| [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) | 1 | 0 |
-| [Project-HAMi/KAI-resource-isolator](https://github.com/Project-HAMi/KAI-resource-isolator) | 0 | 1 |
-| [kagent-dev/community](https://github.com/kagent-dev/community) | 0 | 1 |
-
-_Updated: 2026-07-22_
-<!-- CONTRIBUTIONS_END -->
 
 </div>
 
