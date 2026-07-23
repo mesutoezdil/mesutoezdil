@@ -47,8 +47,7 @@ $ cat recognition.txt
                                github.com/cncf/toc · tags/tag-infrastructure
   Nebius Fellow                Inaugural cohort · 2026
                                nebius.com/fellows
-  LiFT Scholarship             Linux Foundation Training · 2026
-                               e-Learning + Certification exam · linuxfoundation.org
+  LiFT Scholarship             Linux Foundation Training · 2026 · linuxfoundation.org
 ```
 
 <div align="center">
