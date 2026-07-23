@@ -14,14 +14,6 @@
   <img src="https://img.shields.io/badge/LiFT-Linux%20Foundation%20Scholar-003366?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mesutoezdil/mesutoezdil/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mesutoezdil/mesutoezdil/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/mesutoezdil/mesutoezdil/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 ---
 
 ## About
