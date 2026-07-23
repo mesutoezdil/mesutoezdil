@@ -20,7 +20,7 @@
 
 ```sh
 $ whoami
-  DevOps Engineer · CNCF TAG Infrastructure Tech Lead · Germany
+  DevOps Engineer · CNCF TAG Infrastructure Tech Lead
 
 $ cat philosophy.txt
   Be like water. Adapt to the system. Find the path.
