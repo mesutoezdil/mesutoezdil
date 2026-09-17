@@ -16,6 +16,26 @@
 
 ---
 
+## Featured project
+
+<div align="center">
+  <a href="https://github.com/mesutoezdil/accel"><img src="https://raw.githubusercontent.com/mesutoezdil/accel/main/assets/logo.svg" width="64" alt="" /></a>
+
+  ### [accel](https://github.com/mesutoezdil/accel)
+
+  One terminal for every accelerator: 15 vendors from NVIDIA to Apple silicon, utilization down to the pod holding each device, with a rewindable history on disk.
+
+  [![Stars](https://img.shields.io/github/stars/mesutoezdil/accel?style=for-the-badge&logo=github&color=ff8a3d&label=Star)](https://github.com/mesutoezdil/accel/stargazers)
+  [![CI](https://img.shields.io/github/actions/workflow/status/mesutoezdil/accel/ci.yml?style=for-the-badge&label=CI)](https://github.com/mesutoezdil/accel/actions/workflows/ci.yml)
+  [![Site](https://img.shields.io/badge/site-live-2dd4bf?style=for-the-badge)](https://mesutoezdil.github.io/accel/)
+
+  [![accel Overview](https://raw.githubusercontent.com/mesutoezdil/accel/main/assets/overview.png)](https://github.com/mesutoezdil/accel)
+</div>
+
+Issues and pull requests go through the process in [CONTRIBUTING.md](https://github.com/mesutoezdil/accel/blob/main/CONTRIBUTING.md): open an issue, then a pull request that closes it.
+
+---
+
 ## About
 
 ```sh
