@@ -14,25 +14,34 @@
   <img src="https://img.shields.io/badge/LiFT-Linux%20Foundation%20Scholar-003366?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
+<p align="center">
+  <a href="https://github.com/sponsors/mesutoezdil"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
+</p>
+
 ---
 
-## Featured project
+## Featured projects
 
-<div align="center">
-  <a href="https://github.com/mesutoezdil/siltide"><img src="https://raw.githubusercontent.com/mesutoezdil/siltide/main/assets/logo.svg" width="64" alt="" /></a>
-
-  ### [siltide](https://github.com/mesutoezdil/siltide)
-
-  One terminal for every accelerator: 15 vendors from NVIDIA to Apple silicon, utilization down to the pod holding each device, with a rewindable history on disk.
-
-  [![Stars](https://img.shields.io/github/stars/mesutoezdil/siltide?style=for-the-badge&logo=github&color=ff8a3d&label=Star)](https://github.com/mesutoezdil/siltide/stargazers)
-  [![CI](https://img.shields.io/github/actions/workflow/status/mesutoezdil/siltide/ci.yml?style=for-the-badge&label=CI)](https://github.com/mesutoezdil/siltide/actions/workflows/ci.yml)
-  [![Site](https://img.shields.io/badge/site-live-ff8a3d?style=for-the-badge)](https://mesutoezdil.github.io/siltide/)
-
-  [![siltide Overview](https://raw.githubusercontent.com/mesutoezdil/siltide/main/assets/overview.png)](https://github.com/mesutoezdil/siltide)
-</div>
-
-Issues and pull requests go through the process in [CONTRIBUTING.md](https://github.com/mesutoezdil/siltide/blob/main/CONTRIBUTING.md): open an issue, then a pull request that closes it.
+<table>
+<tr>
+<td align="center" width="50%">
+  <a href="https://github.com/mesutoezdil/siltide"><img src="https://raw.githubusercontent.com/mesutoezdil/siltide/main/assets/logo.svg" width="56" alt="" /></a>
+  <h3><a href="https://github.com/mesutoezdil/siltide">siltide</a></h3>
+  One terminal for every accelerator, down to the pod.
+  <br/><br/>
+  <a href="https://github.com/mesutoezdil/siltide/stargazers"><img src="https://img.shields.io/github/stars/mesutoezdil/siltide?style=flat-square&logo=github&color=ff8a3d&label=Star" alt="Stars" /></a>
+  <a href="https://mesutoezdil.github.io/siltide/"><img src="https://img.shields.io/badge/site-live-ff8a3d?style=flat-square" alt="Site" /></a>
+</td>
+<td align="center" width="50%">
+  <a href="https://github.com/mesutoezdil/CUDA"><img src="https://raw.githubusercontent.com/mesutoezdil/CUDA/main/theme/assets/logo.svg" width="56" alt="" /></a>
+  <h3><a href="https://github.com/mesutoezdil/CUDA">CUDA, step by step</a></h3>
+  Plain-English CUDA lessons with interactive diagrams.
+  <br/><br/>
+  <a href="https://github.com/mesutoezdil/CUDA/stargazers"><img src="https://img.shields.io/github/stars/mesutoezdil/CUDA?style=flat-square&logo=github&color=3fb950&label=Star" alt="Stars" /></a>
+  <a href="https://mesutoezdil.github.io/CUDA/"><img src="https://img.shields.io/badge/site-live-3fb950?style=flat-square" alt="Site" /></a>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -48,7 +57,7 @@ $ cat philosophy.txt
 $ cat current_work.txt
   GPU virtualization on Kubernetes      Project HAMi
   AI agents as K8s resources            kagent
-  CUDA and GPU architecture             Systematic CUDA Learning
+  CUDA and GPU architecture             CUDA, step by step
   IaC and zero-trust IAM                OpenTofu · Keycloak · Vault
 
 $ cat certifications.txt
@@ -211,6 +220,8 @@ Co-author with Sanjeev Ganjihal · ~432 pages · Publishing November 2026
 &nbsp;
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://mesutoezdil.substack.com)
 &nbsp;
-[![CUDA Learning](https://img.shields.io/badge/CUDA%20Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/mesutoezdil/Systematic-CUDA-Learning)
+[![CUDA Learning](https://img.shields.io/badge/CUDA%20Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://mesutoezdil.github.io/CUDA/)
+&nbsp;
+[![Sponsor](https://img.shields.io/badge/Sponsor-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/mesutoezdil)
 
 </div>
