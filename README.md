@@ -20,9 +20,9 @@
 
 ---
 
-## Featured projects
+<h2 align="center">Featured projects</h2>
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="50%">
   <a href="https://github.com/mesutoezdil/siltide"><img src="https://raw.githubusercontent.com/mesutoezdil/siltide/main/assets/logo.svg" width="56" alt="" /></a>
