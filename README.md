@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/sponsors/mesutoezdil"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
+  <a href="https://github.com/sponsors/moezdil"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
 </p>
 
 ---
@@ -25,20 +25,20 @@
 <table align="center">
 <tr>
 <td align="center" width="50%">
-  <a href="https://github.com/mesutoezdil/siltide"><img src="https://raw.githubusercontent.com/mesutoezdil/siltide/main/assets/logo.svg" width="56" alt="" /></a>
-  <h3><a href="https://github.com/mesutoezdil/siltide">siltide</a></h3>
+  <a href="https://github.com/moezdil/siltide"><img src="https://raw.githubusercontent.com/moezdil/siltide/main/assets/logo.svg" width="56" alt="" /></a>
+  <h3><a href="https://github.com/moezdil/siltide">siltide</a></h3>
   One terminal for every accelerator, down to the pod.
   <br/><br/>
-  <a href="https://github.com/mesutoezdil/siltide/stargazers"><img src="https://img.shields.io/github/stars/mesutoezdil/siltide?style=flat-square&logo=github&color=ff8a3d&label=Star" alt="Stars" /></a>
-  <a href="https://mesutoezdil.github.io/siltide/"><img src="https://img.shields.io/badge/site-live-ff8a3d?style=flat-square" alt="Site" /></a>
+  <a href="https://github.com/moezdil/siltide/stargazers"><img src="https://img.shields.io/github/stars/moezdil/siltide?style=flat-square&logo=github&color=ff8a3d&label=Star" alt="Stars" /></a>
+  <a href="https://moezdil.github.io/siltide/"><img src="https://img.shields.io/badge/site-live-ff8a3d?style=flat-square" alt="Site" /></a>
 </td>
 <td align="center" width="50%">
-  <a href="https://github.com/mesutoezdil/CUDA"><img src="https://raw.githubusercontent.com/mesutoezdil/CUDA/main/theme/assets/logo.svg" width="56" alt="" /></a>
-  <h3><a href="https://github.com/mesutoezdil/CUDA">CUDA, step by step</a></h3>
+  <a href="https://github.com/moezdil/CUDA"><img src="https://raw.githubusercontent.com/moezdil/CUDA/main/theme/assets/logo.svg" width="56" alt="" /></a>
+  <h3><a href="https://github.com/moezdil/CUDA">CUDA, step by step</a></h3>
   Plain-English CUDA lessons with interactive diagrams.
   <br/><br/>
-  <a href="https://github.com/mesutoezdil/CUDA/stargazers"><img src="https://img.shields.io/github/stars/mesutoezdil/CUDA?style=flat-square&logo=github&color=3fb950&label=Star" alt="Stars" /></a>
-  <a href="https://mesutoezdil.github.io/CUDA/"><img src="https://img.shields.io/badge/site-live-3fb950?style=flat-square" alt="Site" /></a>
+  <a href="https://github.com/moezdil/CUDA/stargazers"><img src="https://img.shields.io/github/stars/moezdil/CUDA?style=flat-square&logo=github&color=3fb950&label=Star" alt="Stars" /></a>
+  <a href="https://moezdil.github.io/CUDA/"><img src="https://img.shields.io/badge/site-live-3fb950?style=flat-square" alt="Site" /></a>
 </td>
 </tr>
 </table>
@@ -220,8 +220,8 @@ Co-author with Sanjeev Ganjihal · ~432 pages · Publishing November 2026
 &nbsp;
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://mesutoezdil.substack.com)
 &nbsp;
-[![CUDA Learning](https://img.shields.io/badge/CUDA%20Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://mesutoezdil.github.io/CUDA/)
+[![CUDA Learning](https://img.shields.io/badge/CUDA%20Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://moezdil.github.io/CUDA/)
 &nbsp;
-[![Sponsor](https://img.shields.io/badge/Sponsor-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/mesutoezdil)
+[![Sponsor](https://img.shields.io/badge/Sponsor-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/moezdil)
 
 </div>
